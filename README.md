@@ -43,8 +43,8 @@ Una aplicación de lista de tareas moderna y elegante construida con Python y Cu
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/bradrezdev/todo-app.git
+   cd todo-app
    ```
 
 2. **Crea un entorno virtual:**
@@ -125,18 +125,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre** - [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+**Bryan Núñez** - [b.nunez@hotmail.es](mailto:b.nunez@hotmail.es)
 
-Enlace del proyecto: [https://github.com/tu-usuario/todo-list-app](https://github.com/tu-usuario/todo-list-app)
-
-## 🎯 Próximas Características
-
-- [ ] Categorías de tareas
-- [ ] Fechas de vencimiento
-- [ ] Prioridades de tareas
-- [ ] Búsqueda y filtros
-- [ ] Exportar a otros formatos
-- [ ] Temas personalizables
+Enlace del proyecto: [https://github.com/bradrezdev/todo-app](https://github.com/bradrezdev/todo-app)
 
 ---
 
